@@ -7,8 +7,8 @@ CreditCard
 TestCard
 
 Variables:
-- card: int
+-card: int
 
 Methods:
-+ getCard()
-+ setCard(newCard : int )
++getCard()
++setCard(newCard : int )
